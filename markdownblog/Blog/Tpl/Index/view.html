@@ -1,0 +1,37 @@
+<include file="Public:header" />
+<div class="main">
+	<div class="container">	
+		<div class="row">					    
+		    <div class="col-md-10 col-md-offset-1">
+		    	<h1>{$post.title}</h1><p>[{$post.author}]</p>
+		    	<hr/>
+		    	<p class="content">{$post.content}</p>
+		    	<hr/>
+		    	<p>标签：{$post.tag}</p>
+		    <p>
+		    	<if condition="(empty($before))"> 
+		    		<span>没有了</span>
+		    		<else/> <a href="__URL__/Index/view/id/{$before['id']}">上一篇</a>
+		    	</if>
+		    	<if condition="(empty($after))">
+		    		<span>没有了</span>
+		    		<else/> <a href="__URL__/Index/view/id/{$after['id']}">下一篇</a>
+		    	</if>
+		    </p>
+		    </div>
+		</div>
+	</div>
+</div>
+<script src="__PUBLIC__/javascript/jquery.min.js"></script>
+<script src="__PUBLIC__/javascript/Markdown.Converter.js"></script>
+<script src="__PUBLIC__/javascript/Markdown.Sanitizer.js"></script>
+<script>
+	$(function () {
+		$('.content').each(function (i, content) {
+			var converter1 = Markdown.getSanitizingConverter();
+			var markdown = $(content).html();
+			$(content).html(converter1.makeHtml(markdown));
+		});
+	});
+</script>
+<include file="Public:footer" />

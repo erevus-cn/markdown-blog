@@ -1,0 +1,89 @@
+<include file="Public:header" />
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet/less" href="__PUBLIC__/pagedown/demo/browser/demo.less">
+    <script src="__PUBLIC__/pagedown/demo/browser/less/less-1.2.2.min.js"></script>
+    <style>
+        body {
+            background-color: White;
+            padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+        }
+
+        .wmd-panel {
+            position: relative;
+        }
+
+        .btn-html-md {
+            position: absolute;
+            right: 0;
+            top: 0;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+    </style>
+</head>
+<div class="main">
+	<div class="container">
+		<div class="row">
+			<include file="menu" />
+			<div class="col-md-9">
+				<div class="panel panel-default">
+				  <div class="panel-heading">
+				    <h3 class="panel-title">
+				    	<ol class="breadcrumb" style="margin-bottom: 0;">
+						  <li>我的博客</li>						 
+						  <li class="active"><a href="">发表文章</a></li>
+						</ol>
+				    </h3>
+				  </div>
+				  <div class="panel-body">
+				   	 <form action="__URL__/User/post" method="post">
+				   	  <p class="title"><input type="text" class="form-control" name="title" placeholder="输入标题"></p>
+				   	  <p class="post-content">
+                         <div id="wmd-button-bar"></div>
+				   	  	<textarea class="wmd-input" id="wmd-input" name="content" placeholder="输入内容(支持markdown)"></textarea>
+				   	  </p>
+                      <div id="wmd-preview" class="wmd-panel wmd-preview"></div>
+				   	  <p class="tag">
+				   	  	<input type="text" name="tag" class="form-control" placeholder="输入标签">
+				   	  </p>
+				   	   <button type="submit" class="btn btn-default">发表</button>
+				   	   <input type="hidden" name="posting" value="posting" />
+				   	 </form>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    <script type="text/javascript">
+        (function () {
+            var converter1 = Markdown.getSanitizingConverter();
+            var editor1 = new Markdown.Editor(converter1);
+            editor1.run();
+
+            $(document)
+                .on('click', '.btn-html-md', function () {
+                    var $input = $('#wmd-input');
+                    var html;
+
+                    if (!$input.data('valueType') || $input.data('valueType') === 'markdown') {
+                        $input.data('markdown', $input.val());
+
+                        html = converter1.makeHtml($input.val());
+
+                        $input.val(html);
+                        $input.data('valueType', 'html');
+                        $input.attr('disabled', 'disabled');
+                    } else {
+                        $input.val($input.data('markdown'));
+                        $input.data('valueType', 'markdown');
+                        $input.removeAttr('disabled');
+                    }
+                });
+        })();
+    </script>
+<include file="Public:footer" />

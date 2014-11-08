@@ -1,0 +1,78 @@
+<include file="Public:header" /><br/><br/><br/>
+
+
+    <div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">erevus's blog</h1>
+        <p class="lead blog-description">躲了一辈子的雨 雨会不会很难过...</p>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+        <volist name="posts" id="vo">
+          <div class="blog-post">
+            <h2 class="blog-post-title">{$vo.title}</h2>
+            <p class="blog-post-meta">{$vo.create_time} by <a href="#">{$vo.author}</a></p>
+            <p class="content">
+            {$vo.content}
+            </p>
+          </div><!-- /.blog-post -->
+          <hr/>
+      </volist>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 col-md-offset-4"><div class="pagination">{$page}</div></div>
+        </div>
+      </div>
+        </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About me</h4>
+            <p>吴文灏<br/>桂林电子科技大学职业技术学院<br/>email:rootcve@gmail.com<br>演示地址:http://t.cn/R7ETK9g</p>
+          </div>
+          <div class="sidebar-module">
+            <h4>Archives</h4>
+            <ol class="list-unstyled">
+              <li><a href="#">March 2014</a></li>
+              <li><a href="#">February 2014</a></li>
+              <li><a href="#">January 2014</a></li>
+              <li><a href="#">December 2013</a></li>
+              <li><a href="#">November 2013</a></li>
+              <li><a href="#">October 2013</a></li>
+              <li><a href="#">September 2013</a></li>
+              <li><a href="#">August 2013</a></li>
+              <li><a href="#">July 2013</a></li>
+              <li><a href="#">June 2013</a></li>
+              <li><a href="#">May 2013</a></li>
+              <li><a href="#">April 2013</a></li>
+            </ol>
+          </div>
+          <div class="sidebar-module">
+            <h4>友情链接</h4>
+            <ol class="list-unstyled">
+              <li><a href="#">链接地址1</a></li>
+              <li><a href="#">链接地址2</a></li>
+              <li><a href="#">链接地址3</a></li>
+            </ol>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+<script src="__PUBLIC__/javascript/jquery.min.js"></script>
+<script src="__PUBLIC__/javascript/Markdown.Converter.js"></script>
+<script src="__PUBLIC__/javascript/Markdown.Sanitizer.js"></script>
+<script>
+	$(function () {
+		$('.content').each(function (i, content) {
+			var converter1 = Markdown.getSanitizingConverter();
+			var markdown = $(content).html();
+			$(content).html(converter1.makeHtml(markdown));
+		});
+	});
+</script>
+<include file="Public:footer" />

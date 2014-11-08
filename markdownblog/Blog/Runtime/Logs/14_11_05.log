@@ -1,0 +1,393 @@
+[ 2014-11-05T20:25:35+08:00 ] 127.0.0.1 /markdownblog/
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.005681s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_post` LIMIT 1   [ RunTime:0.001903s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT * FROM `think_post` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000887s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 137 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015947s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000678s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000698s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000684s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002828s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000635s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2014-11-05T20:25:35+08:00 ] 127.0.0.1 /markdownblog/Blog/Tpl/Public/javascript/Markdown.Sanitizer.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000320s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+ERR: 无法加载模块:Blog
+
+[ 2014-11-05T20:25:35+08:00 ] 127.0.0.1 /markdownblog/Blog/Tpl/Public/javascript/Markdown.Converter.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000616s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000699s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+ERR: 无法加载模块:Blog
+
+[ 2014-11-05T22:11:04+08:00 ] 127.0.0.1 /markdownblog/Index/view/id/24
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000359s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000454s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: 建议使用I方法替代_get
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.001061s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT * FROM `think_post` WHERE ( id="24" ) LIMIT 1   [ RunTime:0.001296s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT * FROM `think_post` WHERE ( id<"24" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000743s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT * FROM `think_post` WHERE ( id>"24" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000118s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 137 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005484s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000161s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000154s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000089s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000245s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2014-11-05T22:11:05+08:00 ] 127.0.0.1 /markdownblog/Blog/Tpl/Public/javascript/Markdown.Converter.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000288s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+ERR: 无法加载模块:Blog
+
+[ 2014-11-05T22:11:05+08:00 ] 127.0.0.1 /markdownblog/Blog/Tpl/Public/javascript/Markdown.Sanitizer.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000331s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/markdownblog/ThinkPHP/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+ERR: 无法加载模块:Blog
+

@@ -1,0 +1,37 @@
+<include file="Public:header" />
+<div class="main">
+	<div class="container">
+		<if condition="$info"><div class="alert alert-info">{$info}</div></if>
+		<div class="row">
+			<div class="col-md-4 col-md-offset-4">
+				<form action="__URL__/Sign/signin" method="post">
+					  <div class="form-group">
+						    <label for="userName">User name</label>
+						    <input type="text" class="form-control" id="userName" name="userName" placeholder="Enter username">
+					  </div>
+					  <div class="form-group">
+					    <label for="pwd">Password</label>
+					    <input type="password" class="form-control" id="pwd" name="pwd" placeholder="Password">
+					  </div>	
+					  <div class="row"  style="margin-bottom:10px;">验证码：<img id="verifyImg" src='__URL__/Sign/verify' /> <input type="text" name="verify"></div>
+				 	  <div class="row">				  
+				  		<div class="col-md-2 col-md-offset-5">
+				  			<button type="submit" class="btn btn-default">登录</button>
+				  		</div>						
+				  	</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<script>
+		(function(){
+			var img = document.getElementById('verifyImg');
+				img.onclick = function(){				
+				var now = new Date().getTime(),
+					src = '__URL__/Sign/verify/'+ now ;
+					img.src = src;
+			}
+		})();
+	</script>
+</div>
+<include file="Public:footer" />

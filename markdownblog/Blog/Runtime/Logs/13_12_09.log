@@ -1,0 +1,981 @@
+[ 2013-12-09T15:52:37+08:00 ] 10.0.2.2 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007527s ]
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000625s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_post` LIMIT 1   [ RunTime:0.000423s ]
+SQL: SELECT * FROM `think_post` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000215s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.167734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.167827s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012351s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006356s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004253s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028224s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007108s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007175s ]
+
+[ 2013-12-09T15:56:47+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007197s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007367s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004520s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000563s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000256s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049169s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004860s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004656s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004257s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018458s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006896s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007005s ]
+
+[ 2013-12-09T15:59:01+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006055s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006134s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004804s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000481s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000083s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051070s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005055s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004118s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004802s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019863s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005422s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005506s ]
+
+[ 2013-12-09T15:59:18+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006806s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006889s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004913s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000541s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000072s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048179s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003897s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004306s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002816s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015962s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005838s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005900s ]
+
+[ 2013-12-09T15:59:32+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006929s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005550s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000593s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000075s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.066697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066779s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004635s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004657s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004725s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019110s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004965s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005026s ]
+
+[ 2013-12-09T15:59:38+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003963s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004050s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004436s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000550s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000070s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045633s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004066s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003036s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002255s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012303s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005791s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005860s ]
+
+[ 2013-12-09T15:59:48+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005515s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005620s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003617s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000540s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000075s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 35 行.
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 35 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039223s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004575s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003028s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003443s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014654s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004802s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004868s ]
+
+[ 2013-12-09T16:19:52+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007801s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007893s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004300s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000575s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000071s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049723s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003231s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006623s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004410s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018484s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005600s ]
+
+[ 2013-12-09T16:30:45+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006891s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005444s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000557s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000188s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.078285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078418s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004612s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005508s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005341s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020533s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006451s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006516s ]
+
+[ 2013-12-09T16:30:53+08:00 ] 10.0.2.2 /User/view/id/15
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013587s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013691s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005781s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000602s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="15" ) LIMIT 1   [ RunTime:0.000263s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055470s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013174s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004956s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004494s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027445s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005231s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005314s ]
+
+[ 2013-12-09T16:30:55+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015623s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015715s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005117s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.001079s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062020s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004910s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004998s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005742s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020433s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003631s ]
+
+[ 2013-12-09T16:30:56+08:00 ] 10.0.2.2 /User/view/id/13
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004612s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004703s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013178s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000539s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="13" ) LIMIT 1   [ RunTime:0.000185s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039289s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004740s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003401s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003374s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015313s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005229s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005291s ]
+
+[ 2013-12-09T16:31:01+08:00 ] 10.0.2.2 /User/view/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006641s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002965s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000567s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="12" ) LIMIT 1   [ RunTime:0.000001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039326s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003719s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003112s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003237s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013459s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003095s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003136s ]
+
+[ 2013-12-09T16:31:02+08:00 ] 10.0.2.2 /User/view/id/11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004237s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003393s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000532s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="11" ) LIMIT 1   [ RunTime:0.000231s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033974s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005116s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003889s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.013003s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025492s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004025s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004073s ]
+
+[ 2013-12-09T16:31:04+08:00 ] 10.0.2.2 /User/view/id/10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003944s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004025s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004084s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000974s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="10" ) LIMIT 1   [ RunTime:0.000374s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036483s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004693s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003873s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003550s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015824s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004119s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004182s ]
+
+[ 2013-12-09T16:31:05+08:00 ] 10.0.2.2 /User/view/id/9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004364s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004443s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004830s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.001576s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="9" ) LIMIT 1   [ RunTime:0.000157s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040139s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004752s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003430s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002287s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013702s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004192s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004245s ]
+
+[ 2013-12-09T16:31:06+08:00 ] 10.0.2.2 /User/view/id/8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003704s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003837s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000550s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="8" ) LIMIT 1   [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039477s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005873s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003413s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003346s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016633s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003495s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003552s ]
+
+[ 2013-12-09T16:36:42+08:00 ] 10.0.2.2 /User/view/id/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013972s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014080s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011375s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000586s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="7" ) LIMIT 1   [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048232s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003528s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004009s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003964s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015859s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012263s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012328s ]
+
+[ 2013-12-09T16:36:44+08:00 ] 10.0.2.2 /User/view/id/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006411s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006602s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005583s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000589s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="6" ) LIMIT 1   [ RunTime:0.000280s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049464s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003179s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002901s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002748s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013298s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004901s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004968s ]
+
+[ 2013-12-09T16:36:45+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005845s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005925s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005056s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.001214s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000495s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.058616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058703s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004345s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004559s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004672s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019529s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005056s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005122s ]
+
+[ 2013-12-09T16:36:47+08:00 ] 10.0.2.2 /User/view/id/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003518s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003600s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003771s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000699s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="4" ) LIMIT 1   [ RunTime:0.000223s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046921s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003980s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002750s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003009s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014481s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004413s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004475s ]
+
+[ 2013-12-09T16:39:48+08:00 ] 10.0.2.2 /User/view/id/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006555s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006642s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004217s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000547s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="4" ) LIMIT 1   [ RunTime:0.000070s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"4" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060847s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060927s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005416s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004793s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004691s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018630s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005110s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005184s ]
+
+[ 2013-12-09T16:41:06+08:00 ] 10.0.2.2 /User/view/id/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006424s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006309s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000549s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="4" ) LIMIT 1   [ RunTime:0.000070s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"4" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000056s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051089s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005043s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005213s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004749s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019896s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.021163s ]
+INFO: [ view_end ] --END-- [ RunTime:0.021319s ]
+
+[ 2013-12-09T16:41:10+08:00 ] 10.0.2.2 /User/view/id/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006245s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006322s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005213s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000531s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="4" ) LIMIT 1   [ RunTime:0.000074s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"4" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000053s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053540s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004779s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004689s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004372s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018721s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005895s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005957s ]
+
+[ 2013-12-09T16:41:17+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017889s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018101s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003879s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000552s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000093s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"5" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000290s ]
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Lib/Action/UserAction.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040015s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004689s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003997s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003500s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003828s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016273s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004922s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005029s ]
+
+[ 2013-12-09T16:41:34+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004476s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004630s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003929s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000578s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000075s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"5" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000057s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039088s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003995s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003427s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003589s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015138s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003696s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003754s ]
+
+[ 2013-12-09T16:41:59+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004507s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004601s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004150s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000570s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000076s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"5" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000057s ]
+NOTIC: [8] Trying to get property of non-object /home/www/php/www.demo.com/Blog/Lib/Action/UserAction.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041968s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003381s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002673s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002792s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012871s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006097s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006195s ]
+
+[ 2013-12-09T16:42:05+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006321s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006408s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004173s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000652s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000076s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"5" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000057s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.054578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054692s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006463s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003719s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003798s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018228s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003767s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003845s ]
+
+[ 2013-12-09T16:42:13+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013699s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013787s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003850s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000619s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000082s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"5" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000057s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Array to string conversion /home/www/php/www.demo.com/Blog/Runtime/Cache/7719fd0936da43beff063fcc01607f4f.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045246s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006535s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003723s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003671s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017787s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004043s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004116s ]
+
+[ 2013-12-09T16:44:21+08:00 ] 10.0.2.2 /User/view/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006012s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006100s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005282s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000546s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="5" ) LIMIT 1   [ RunTime:0.000086s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"5" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000057s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"5" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053170s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004714s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004890s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004299s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025650s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005177s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005242s ]
+
+[ 2013-12-09T16:44:24+08:00 ] 10.0.2.2 /User/view/id/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006519s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006600s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004932s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000538s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="6" ) LIMIT 1   [ RunTime:0.000092s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"6" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000277s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"6" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053240s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005471s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004813s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004640s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019630s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005705s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005763s ]
+
+[ 2013-12-09T16:44:26+08:00 ] 10.0.2.2 /User/view/id/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006239s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006325s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005488s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.001544s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="7" ) LIMIT 1   [ RunTime:0.000126s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"7" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000431s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"7" ) ORDER BY id asc LIMIT 1   [ RunTime:0.002111s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051514s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005177s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005621s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005294s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020893s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004923s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004968s ]
+
+[ 2013-12-09T16:44:28+08:00 ] 10.0.2.2 /User/view/id/8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003919s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003849s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000601s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="8" ) LIMIT 1   [ RunTime:0.000095s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"8" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000260s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"8" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000184s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036497s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004688s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003628s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003479s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016336s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004778s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004851s ]
+
+[ 2013-12-09T16:44:31+08:00 ] 10.0.2.2 /User/view/id/9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003406s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003501s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003368s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000541s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="9" ) LIMIT 1   [ RunTime:0.000074s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"9" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000146s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"9" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000182s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043552s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004659s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003657s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003317s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014858s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003408s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003478s ]
+
+[ 2013-12-09T16:44:34+08:00 ] 10.0.2.2 /User/view/id/10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003893s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003969s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003112s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.002355s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="10" ) LIMIT 1   [ RunTime:0.000083s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"10" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000593s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"10" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000342s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038663s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005023s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003954s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002162s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014978s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003864s ]
+
+[ 2013-12-09T16:44:35+08:00 ] 10.0.2.2 /User/view/id/11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003433s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003520s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003643s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.001532s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="11" ) LIMIT 1   [ RunTime:0.000189s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"11" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000373s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"11" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000220s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051915s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003153s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004234s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017007s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006147s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006228s ]
+
+[ 2013-12-09T16:44:36+08:00 ] 10.0.2.2 /User/view/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005958s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006053s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004315s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000549s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="12" ) LIMIT 1   [ RunTime:0.000074s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"12" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000256s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"12" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000161s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047370s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004967s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004136s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003162s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015785s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003043s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003110s ]
+
+[ 2013-12-09T16:44:38+08:00 ] 10.0.2.2 /User/view/id/14
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003755s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003839s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004143s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000631s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="14" ) LIMIT 1   [ RunTime:0.000079s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"14" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000324s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"14" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000177s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041940s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005957s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003661s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003357s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016748s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.015308s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015379s ]
+
+[ 2013-12-09T16:44:41+08:00 ] 10.0.2.2 /User/view/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004183s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004269s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003855s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000592s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="12" ) LIMIT 1   [ RunTime:0.000075s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"12" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000060s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"12" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000055s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047508s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004415s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003511s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003346s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014415s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004193s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005010s ]
+
+[ 2013-12-09T16:52:18+08:00 ] 10.0.2.2 /User/view/id/0
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005902s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005990s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005027s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000668s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.000256s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"0" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000169s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"0" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000172s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048223s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004379s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005602s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003895s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018643s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004723s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004793s ]
+
+[ 2013-12-09T16:52:28+08:00 ] 10.0.2.2 /User/view/id/0
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006741s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006838s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005188s ]
+NOTIC: 建议使用I方法替代_get
+SQL: SHOW COLUMNS FROM `think_post` [ RunTime:0.000557s ]
+SQL: SELECT * FROM `think_post` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.000077s ]
+SQL: SELECT * FROM `think_post` WHERE ( id<"0" ) ORDER BY id desc LIMIT 1   [ RunTime:0.000059s ]
+SQL: SELECT * FROM `think_post` WHERE ( id>"0" ) ORDER BY id asc LIMIT 1   [ RunTime:0.000057s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048347s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004641s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004014s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004637s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018029s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004034s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004188s ]
+
